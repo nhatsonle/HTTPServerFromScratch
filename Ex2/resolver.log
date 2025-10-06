@@ -1,0 +1,4 @@
+[2025-10-06 22:52:35] QUERY: "google.com" -> RESULT: "CNAME: google.com | Official IP: 142.250.197.238, 2404:6800:4005:81e::200e"
+[2025-10-06 22:53:30] QUERY: "google.com" -> RESULT: "CNAME: google.com | Official IP: 142.250.198.206, 2404:6800:4005:827::200e"
+[2025-10-06 22:53:30] QUERY: "8.8.8.8" -> RESULT: "Official name: dns.google"
+[2025-10-06 22:53:30] QUERY: "127.0.0.1" -> RESULT: "Official name: localhost"
